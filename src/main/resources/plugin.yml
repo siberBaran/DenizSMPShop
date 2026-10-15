@@ -1,0 +1,15 @@
+name: DenizSMPShop
+version: 1.0.0
+main: me.denizsmp.shop.DenizSMPShop
+api-version: '1.21'
+depend: [Vault]
+
+commands:
+  shop:
+    description: DenizSMP Shop menüsünü açar
+    usage: /shop
+
+permissions:
+  denizsmpshop.use:
+    description: Mağazayı kullanma izni
+    default: true
