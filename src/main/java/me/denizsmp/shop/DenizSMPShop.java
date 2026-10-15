@@ -65,7 +65,7 @@ public final class DenizSMPShop extends JavaPlugin implements Listener {
         addPrice("CPVP", Material.ARROW, 5);
 
         addPrice("END", Material.END_STONE, 8);
-        addPrice("END", Material.END_CHEST, 2500);
+        addPrice("END", Material.ENDER_CHEST, 2500);
         addPrice("END", Material.ENDER_PEARL, 100);
         addPrice("END", Material.DRAGON_BREATH, 1200);
         addPrice("END", Material.END_ROD, 100);
